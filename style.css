@@ -1,0 +1,12 @@
+.nut{
+
+margin-left: 200px;
+}
+
+.nhapsooday{
+    display: flex;
+    justify-items: flex-end;
+    flex: 50px 70px auto;
+    
+
+}
